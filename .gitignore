@@ -1,0 +1,19 @@
+# Datos y Bases de Datos
+Data/
+*.db
+*.sqlite
+
+# Jupyter Notebooks temporales
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Entornos virtuales y Anaconda
+anaconda_project/
+env/
+venv/
+.conda/
+
+# Logs y temporales
+logs/
+*.log
+.DS_Store
